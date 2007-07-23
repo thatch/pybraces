@@ -1,0 +1,23 @@
+
+
+
+
+
+
+
+
+
+
+                     Sample code available at
+             http://timhatch.com/projects/pybraces
+
+                    Yes, it's very much a hack.
+                     Nobody should ever use it.
+
+
+
+
+
+
+
+
